@@ -2,7 +2,11 @@ package com.sh.app;
 
 import com.sh.animal.Cat;
 import com.sh.animal.Dog;
+<<<<<<< HEAD
 import com.sh.animal.Parrot;
+=======
+import com.sh.animal.Monkey;
+>>>>>>> feature/animal
 
 public class Main {
 
@@ -12,7 +16,11 @@ public class Main {
 		
 		new Dog().bark();
 		new Cat().jump();
+<<<<<<< HEAD
 		new Parrot().say();
+=======
+		new Monkey().bananaThrow();
+>>>>>>> feature/animal
 	}
 
 }
