@@ -12,6 +12,8 @@ public class Main {
 	public static void main(String[] args) {
 		System.out.println("HELLO WORLD");//ctrl shift x 대문자 변환 
 		System.out.println("HELLO GIT");
+		System.out.println("Animal Go~");
+	
 		
 		new Dog().bark();
 		new Cat().jump();
