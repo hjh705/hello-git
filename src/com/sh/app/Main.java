@@ -14,7 +14,6 @@ public class Main {
 		
 		System.out.println("동물 기능 시작!");
 		System.out.println("Animal Go~");
-	
 		new Dog().bark();
 		new Parrot().say();
 		new Monkey().bananaThrow();
